@@ -2,4 +2,5 @@
 
 To move, use A (left) and D (right).
 
-followed a tutorial by Brackeys
+
+Created from a tutorial by Brackeys.
